@@ -1,6 +1,4 @@
 # PRODIGY_CS_Task-01
-```
-```
 
 __Project Report:__ Caesar Cipher Encryption and Decryption Program
 
