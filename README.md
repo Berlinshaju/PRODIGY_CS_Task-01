@@ -12,8 +12,11 @@ The program is implemented in Python using the Tkinter library for creating the 
 
 # Features:
 __Encryption:__ Users can input a message and a shift value, and the program encrypts the message using the Caesar Cipher algorithm.
+
 __Decryption:__ Users can input an encrypted message and the corresponding shift value, and the program decrypts the message to reveal the original text.
+
 __User-friendly GUI:__ The program provides a simple and intuitive graphical interface for users to interact with.
+
 __Input Validation:__ The program ensures that the input provided by the user for the shift value is a valid integer.
 
 # Functionality:
